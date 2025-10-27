@@ -1,6 +1,5 @@
 ## 
-I am **Hasindu**, a Data Scientist with a strong academic foundation in **Statistics and Mathematics**.  
-I am passionate about applying analytical thinking and research methodologies to solve real-world problems using data.
+I am **Hasindu**, a Data Scientist specializing in Statistics and Mathematics, with a deep focus on solving real world problems through data-driven decision making
 
 ---
 
@@ -11,9 +10,9 @@ I am passionate about applying analytical thinking and research methodologies to
 ---
 
 ### 🔬 Research & Academic Interests
-- ✅ Optimization & Operations Research  
-- ✅ Machine Learning & Deep Learning  
-- ✅ Statistical Modeling & Data-Driven Decision Making  
+- Optimization & Operations Research  
+- Machine Learning & Deep Learning  
+- Statistical Modeling & Data-Driven Decision Making  
 
 ---
 
